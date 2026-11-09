@@ -17,7 +17,7 @@ export type LinkItem = {
 export const profile: ProfileData = {
   nameKo: "고준서",
   nameEn: "Koh Zun Seo",
-  title: "World Greatest Architecture",
+  title: "World Greatest Architect",
   tagline: "(Aspiring ^>^//)",
   avatarUrl: "/profile.jpg",
 };
