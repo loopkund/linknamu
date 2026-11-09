@@ -19,14 +19,18 @@ export const profile: ProfileData = {
   nameEn: "Koh Zun Seo",
   title: "World Greatest Architecture",
   tagline: "(Aspiring ^>^//)",
-  // TODO: 실제 사진으로 교체 (public/ 에 넣고 경로 변경)
-  avatarUrl: "/profile-placeholder.svg",
+  avatarUrl: "/profile.jpg",
 };
 
 // TODO: 더미값입니다. 실제 내용으로 교체하세요.
 // id는 클릭 수 집계 키이므로 한 번 정하면 바꾸지 않는 것이 좋습니다.
 export const links: LinkItem[] = [
-  { id: "instagram", label: "Instagram", title: "@your_instagram", url: "https://instagram.com/" },
-  { id: "website", label: "Personal Website", title: "yourname.com", url: "https://example.com/" },
-  { id: "youtube", label: "YouTube Channel", title: "Your Channel Name", url: "https://youtube.com/" },
+  {
+    id: "instagram",
+    label: "Instagram",
+    title: "@koh_zun.seo.hello",
+    url: "https://www.instagram.com/koh_zun.seo.hello/",
+  },
+  { id: "website", label: "Personal Website", title: "(Coming soon)", url: "https://example.com/" },
+  { id: "youtube", label: "YouTube Channel", title: "(Coming soon)", url: "https://youtube.com/" },
 ];
