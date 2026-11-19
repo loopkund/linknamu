@@ -19,7 +19,7 @@ export const profile: ProfileData = {
   nameEn: "Koh Zun Seo",
   title: "World Greatest Architect",
   tagline: "(Aspiring ^>^//)",
-  avatarUrl: "/profile.jpg",
+  avatarUrl: "/profile-new.jpg",
 };
 
 // TODO: 더미값입니다. 실제 내용으로 교체하세요.
